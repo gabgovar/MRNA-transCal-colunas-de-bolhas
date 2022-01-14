@@ -1,0 +1,1 @@
+# Modelo-de-rede-neural-artificial-transfer-ncia-de-calor-em-colunas-de-bolhas
