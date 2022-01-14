@@ -1,4 +1,4 @@
-# Modelo de rede neural artificial:transferência de calor em colunas de bolhas
+# Modelo de rede neural artificial: Transferência de calor em colunas de bolhas
 
 <div style="text-align: justify;">
 
